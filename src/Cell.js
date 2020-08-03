@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { render } from 'enzyme';
 
 export default class Cell extends Component {
   constructor(props) {
